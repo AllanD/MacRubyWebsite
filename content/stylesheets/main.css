@@ -226,7 +226,7 @@ header h1.logo a {
 }
 /* MainContent */
 .grid {
-  background: url(../images/cross_divider.png) top no-repeat;
+  background: url(../images/cross_divider.png) 0 64px no-repeat;
 }
 .grid .date {
   float: right;
