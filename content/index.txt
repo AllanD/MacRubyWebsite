@@ -28,7 +28,7 @@ filter:
       <div class="gridContent boxed equalHeights1">
 
       <% articles = @pages.find(:all, :in_directory => File.join(@page.dir, 'blog'), :recursive => true, :sort_by => "created_at", :reverse => true, :blog_post => true) -%>
-      <% articles[0,2].each do |article| -%>
+      <% articles[0,3].each do |article| -%>
       
         <div class="abstract padding15">
           <h3 class="headerText1">
