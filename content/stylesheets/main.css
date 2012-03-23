@@ -72,6 +72,7 @@ ul li {
   padding: 5px 10px;
 }
 .alternatingRows {
+  margin: 0;
   list-style-type: none;
 }
 .alternatingRows li:first-child {
@@ -434,5 +435,9 @@ pre {
 	ul {
 	  margin-left: 3em;
 	  list-style-type: disc;
+	}
+	ul#twitter_update_list {
+	  margin: 0;
+	  list-style-type: none;
 	}
 
