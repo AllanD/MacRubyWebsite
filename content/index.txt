@@ -49,16 +49,14 @@ filter:
       <h2 class="headerText1 lobsterFont"><img class="gridIcon3" src="../images/icon_notebook.png" alt="#" />The Definitive Guide</h2>
       <div class="gridContent boxed equalHeights2">
         <div class="padding15">
-<img src="images/d_guide.gif" alt="MacRuby Book by Matt Aimonetti" class="dGuide" />
-<a href="http://merbist.com">Matt Aimonetti</a> is currently working on
-a <a href="http://oreilly.com/catalog/0636920000723/">MacRuby book for
-O'Reilly</a>. It is under development and the book is being published as
-it is being written. The work is released under a <a
-href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/">Creative
-Commons</a> license, with the idea of getting early feedback from the
-community.<br/>
-<a href="http://oreilly.com/catalog/0636920000723/">Check it out!</a>
-        </div>
+          <img src="images/d_guide.gif" alt="MacRuby Book by Matt Aimonetti" class="dGuide" />
+          <a href="http://merbist.com">Matt Aimonetti</a> has written a <a href="http://oreilly.com/catalog/0636920000723/">MacRuby book for
+          O'Reilly</a>. The work is released under a <a
+          href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/">Creative
+          Commons</a> license, with the idea of getting early feedback from the
+          community.<br/><br /><br /><br /><br />
+          <a href="http://ofps.oreilly.com/titles/9781449380373/">Read the free online version.</a> <br>
+          <a href="https://www.amazon.com/dp/1449380379?tag=merbist-20&amp;camp=213381&amp;creative=390973&amp;linkCode=as4&amp;creativeASIN=1449380379&amp;adid=1SKHT7ABMG1YJZ3136WQ&amp;">Purchase an electronic or print version.</a>        </div>
       </div>
       
     </aside>
