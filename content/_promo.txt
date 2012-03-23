@@ -2,10 +2,10 @@
 <div style="padding: 30px;"><!-- Refactor -->
 
 <div class="codaNav">	 <!-- Refactor -->
-<a rel="coda-slider-1" href="#1" class="xtrig">What is MacRuby?</a> |
-<a rel="coda-slider-1" href="#2" class="xtrig">Get Started</a> |
-<a rel="coda-slider-1" href="#3" class="xtrig">Learn</a> |
-<a rel="coda-slider-1" href="#4" class="xtrig">Get Involved</a> |
+<a rel="coda-slider-1" href="#1" class="xtrig">What is MacRuby?</a>
+<a rel="coda-slider-1" href="#2" class="xtrig">Get Started</a>
+<a rel="coda-slider-1" href="#3" class="xtrig">Learn</a>
+<a rel="coda-slider-1" href="#4" class="xtrig">Get Involved</a>
 </div>
 
 <!-- Refactor -->
