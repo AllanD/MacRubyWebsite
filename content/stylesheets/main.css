@@ -112,7 +112,7 @@ h3.headerText {
 /* General */
 body {
   color: #404040;
-  font-family: verdana, sans-serif;
+  font-family: 'Helvetica Neue', 'Helvetica', sans-serif;
   font-size: 14px;
   line-height: 1.5;
   background: #e4e4e4 url(../images/bg_home.jpg) top repeat-x;
@@ -344,6 +344,7 @@ footer .footerNav ul {
   list-style:none;
   position:relative;
   left:50%;
+  margin: 0;
   text-align:center;
 }
 footer .footerNav ul li {
